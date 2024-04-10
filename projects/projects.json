@@ -1,0 +1,36 @@
+[
+
+
+  {
+    "name": "Password Generator",
+    "desc": "It creates random passwords based on certain criteria specified by the user, such as length, inclusion of special characters, numbers, and uppercase/lowercase letters",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://sunil12332.github.io/Password-generator/",
+      "code": "https://github.com/sunil12332/Password-generator"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Creating a weather app using JavaScript involves integrating with a weather API to fetch current weather data and presenting it to users in a user-friendly format. Here's a basic description of how it works:",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://sunil12332.github.io/Weather-app/",
+      "code": "https://github.com/sunil12332/Weather-app"
+    }
+  },
+
+  {
+    "name": "Youtube Clone",
+    "desc": " Creating a YouTube clone using React.js and Tailwind CSS involves building a web application that mimics the basic functionality and appearance of the YouTube platform.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/sunil12332/youtubeclone"
+    }
+  }
+
+]
